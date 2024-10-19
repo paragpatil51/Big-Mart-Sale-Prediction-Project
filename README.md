@@ -49,11 +49,11 @@ To clone this repository and run the projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-science-internship-projects.git
+   git clone https://github.com/paragpatil51/Academor-Internship.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd data-science-internship-projects
+   cd Academor-Internship
    ```
 3. Install the necessary dependencies:
    ```bash
@@ -67,5 +67,3 @@ This repository captures my hands-on experience during my internship, showcasing
 Feel free to explore the projects, provide feedback, or reach out for collaboration!
 
 ---
-
-Let me know if you would like any adjustments or additional sections!
