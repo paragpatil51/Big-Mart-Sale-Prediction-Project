@@ -2,9 +2,9 @@ Here's a README file formatted for a GitHub repository, designed to be informati
 
 ---
 
-# Data Science Internship Projects
+# Big Mart Sale Prediction Projects
 
-Welcome to the repository showcasing my projects from my internship at **Academor**! This collection highlights my journey into data science, where I utilized Python and key libraries to tackle real-world problems.
+Welcome to the repository showcasing my project. This collection highlights my journey into data science, where I utilized Python and key libraries to tackle real-world problems.
 
 ## Table of Contents
 - [About](#about)
@@ -16,7 +16,7 @@ Welcome to the repository showcasing my projects from my internship at **Academo
 - [Conclusion](#conclusion)
 
 ## About
-During my internship at Academor, I enhanced my skills in Python programming and explored essential libraries like Pandas, NumPy, Matplotlib, Scikit-learn, and Seaborn. This repository documents the key projects I completed, reflecting my growth in data science and machine learning.
+ I enhanced my skills in Python programming and explored essential libraries like Pandas, NumPy, Matplotlib, Scikit-learn, and Seaborn. This repository documents the key projects I completed, reflecting my growth in data science and machine learning.
 
 ## Projects
 
@@ -62,7 +62,7 @@ To clone this repository and run the projects locally, follow these steps:
 4. Run the applications as needed.
 
 ## Conclusion
-This repository captures my hands-on experience during my internship, showcasing the application of data science techniques to solve practical problems. I am eager to continue my journey in this exciting field!
+This repository captures my hands-on experience, showcasing the application of data science techniques to solve practical problems. I am eager to continue my journey in this exciting field!
 
 Feel free to explore the projects, provide feedback, or reach out for collaboration!
 
